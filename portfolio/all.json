@@ -31,6 +31,21 @@
       "skill": "VueJs",
       "color": "#CED4DA",
       "textColor": "#212529"
+    },
+    {
+      "skill": "ReactJs",
+      "color": "#fbcbc9",
+      "textColor": "#212529"
+    },
+    {
+      "skill": "SQL",
+      "color": "#f5f0e1",
+      "textColor": "#212529"
+    },
+    {
+      "skill": "NoSQL",
+      "color": "#c6d7eb",
+      "textColor": "#ffffff"
     }
   ],
   "projects": [
@@ -62,7 +77,7 @@
       "number": 5,
       "name": "Kuber IDE",
       "link": "https://kuberide.com/",
-      "image": "https://nabinkawan.github.io/portfolio/images/projects/kuber-ide.jpg"
+      "image": "https://nabinkawan.github.io/portfolio/images/projects/kuber_ide.jpg"
     },
     {
       "number": 6,
