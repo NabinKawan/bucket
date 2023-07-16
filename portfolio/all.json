@@ -4,7 +4,10 @@
     "email": "nabin.kawan.9@gmail.com",
     "image": "https://nabinkawan.github.io/portfolio/images/profile.png",
     "description": "I'm a professional programmer with more than 3 years of experience.",
-    "experience": 3
+    "experience": 3,
+    "githubLink": "https://github.com/NabinKawan",
+    "linkedInLink": "https://www.linkedin.com/in/nibank",
+    "repoLink": "https://github.com/NabinKawan/portfolio"
   },
   "skills": [
     {
