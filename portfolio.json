@@ -1,0 +1,66 @@
+{
+  "description": {
+    "name": "Nabin",
+    "description": "I'm a professional programmer with more than 3 years of experience.",
+    "experience": 3
+  },
+  "skills": [
+    {
+      "skill": "Next Js",
+      "color": "#F87171",
+      "textColor": "#ffffff"
+    },
+    {
+      "skill": "Spring",
+      "color": "#CED4DA",
+      "textColor": "#212529"
+    },
+    {
+      "skill": "Flutter",
+      "color": "#EB8E07",
+      "textColor": "#ffffff"
+    },
+    {
+      "skill": "Fast api",
+      "color": "#212529",
+      "textColor": "#ffffff"
+    },
+    {
+      "skill": "Vue Js",
+      "color": "#CED4DA",
+      "textColor": "#212529"
+    }
+  ],
+  "projects": [
+    {
+      "number": 1,
+      "name": "Tikeet",
+      "link": "https:tikeet.io",
+      "image": "offlinepass.jpg"
+    },
+    {
+      "number": 2,
+      "name": "Flunumberensity",
+      "link": "https:tikeet.io",
+      "image": "offlinepass.jpg"
+    },
+    {
+      "number": 3,
+      "name": "CnftSale",
+      "link": "https:tikeet.io",
+      "image": "offlinepass.jpg"
+    },
+    {
+      "number": 4,
+      "name": "OfflinePass",
+      "link": "https:tikeet.io",
+      "image": "offlinepass.jpg"
+    },
+    {
+      "number": 5,
+      "name": "Kuber IDE",
+      "link": "https:tikeet.io",
+      "image": "offlinepass.jpg"
+    }
+  ]
+}
