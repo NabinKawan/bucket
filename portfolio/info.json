@@ -6,39 +6,29 @@
     "hobby": "During my downtime, you'll find me singing 🎤, diving into books 📕, exploring modern trends 🚀, gaming, and enjoying the company of my favorite people ❤️.",
     "hobbyImage1": "https://nabinkawan.github.io/bucket/portfolio/images/about1.png",
     "hobbyImage2": "https://nabinkawan.github.io/bucket/portfolio/images/about2.png",
-    "cv": "https://drive.google.com/file/d/1Hm0OEm9X15mHOvqJI-XRF3C1mOmoSs2_/view?usp=sharing",
+    "resume": "https://nabinkawan.github.io/bucket/portfolio/resume.pdf",
     "avatar": "https://nabinkawan.github.io/bucket/portfolio/images/me.png"
   },
   "socialProviders": [
     {
       "name": "Linkedin",
-      "logo": "https://nabinkawan.github.io/bucket/portfolio/images/socialProviderLogo/linkedin.png",
+      "logo": "https://nabinkawan.github.io/bucket/portfolio/icons/linkedin.png",
       "link": "https://www.linkedin.com/in/Nabin-duwal-82537b187/"
     },
     {
       "name": "GitHub",
-      "logo": "https://nabinkawan.github.io/bucket/portfolio/images/socialProviderLogo/GitHub.png",
+      "logo": "https://nabinkawan.github.io/bucket/portfolio/icons/github.png",
       "link": "https://github.com/kneerose"
     },
     {
-      "name": "Youtube",
-      "logo": "https://nabinkawan.github.io/bucket/portfolio/images/socialProviderLogo/youtube.svg",
-      "link": "https://www.youtube.com/channel/UCUnRGywbNgBQOwL9uefWSoA"
-    },
-    {
       "name": "Reddit",
-      "logo": "https://nabinkawan.github.io/bucket/portfolio/images/socialProviderLogo/reddit.png",
+      "logo": "https://nabinkawan.github.io/bucket/portfolio/icons/reddit.png",
       "link": "https://www.reddit.com/user/kneerose143"
     },
     {
       "name": "Instagram",
-      "logo": "https://nabinkawan.github.io/bucket/portfolio/images/socialProviderLogo/instagram.png",
+      "logo": "https://nabinkawan.github.io/bucket/portfolio/icons/instagram.png",
       "link": "https://www.instagram.com/Nabin.duwal/"
-    },
-    {
-      "name": "Smule",
-      "logo": "https://nabinkawan.github.io/bucket/portfolio/images/socialProviderLogo/smule.png",
-      "link": "https://www.smule.com/kneerose12"
     }
   ],
   "quotesDetails": {
@@ -56,23 +46,15 @@
       "title": "bettercollected",
       "link": "https://bettercollected.com/",
       "description": "A privacy-focused form builder designed for conscious companies that prioritize the rights and data privacy of their form responders.",
-      "role": "Fullstack developer",
+      "role": "Full-Stack Developer",
       "backgroundColor": "#E8F2FF",
       "image": "https://nabinkawan.github.io/bucket/portfolio/images/bettercollected.png"
-    },
-    {
-      "title": "Sireto",
-      "link": "https://sireto.com/",
-      "description": "Sireto is a software company based on the Netherlands and Nepal building innovative software and solutions for our partners and valued clients.",
-      "role": "Fullstack developer",
-      "backgroundColor": "#FDF2FF",
-      "image": "https://nabinkawan.github.io/bucket/portfolio/images/sireto.png"
     },
     {
       "title": "Kuber IDE",
       "link": "https://kuberide.com/",
       "description": "PreSetup Environment for writing and trying out plutus contracts and cardano transactions.",
-      "role": "Ghost theme developer",
+      "role": "Frontend Developer",
       "backgroundColor": "#F4F4F6",
       "image": "https://nabinkawan.github.io/bucket/portfolio/images/KuberIDE.png"
     }
@@ -89,12 +71,6 @@
       "name": "Sandip pandey",
       "position": "CEO, Sireto technology",
       "image": "https://nabinkawan.github.io/bucket/portfolio/images/testimonials/sandip.png"
-    },
-    {
-      "thought": "Nabin's attention to detail and problem-solving skills are exemplary. His dedication and innovative approach significantly contributed to the project's success. I enthusiastically recommend Nabin for his software development prowess.",
-      "name": "Rupan Chaulagain",
-      "position": "Sr. Software Engineer, Sireto technology",
-      "image": "https://nabinkawan.github.io/bucket/portfolio/images/testimonials/rupan.png"
     }
   ],
   "facts": [
