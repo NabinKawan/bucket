@@ -3,7 +3,7 @@
     "name": "NABIN KAWAN",
     "email": "nabin.kawan.9@gmail.com",
     "description": "👋 Hi! I'm Nabin, a computer engineer with a passion for coding. I've honed my programming skills through a blend of structured learning and self-teaching. Let's combine innovation with coding, and user-centric design.",
-    "hobby": "During my downtime, you'll find me singing 🎤, diving into books 📕, exploring modern trends 🚀, gaming, and enjoying the company of my favorite people ❤️.",
+    "hobby": "During my downtime, you'll find me diving into books 📕, exploring modern trends 🚀, gaming, and playing chess ♟️.",
     "hobbyImage1": "https://nabinkawan.github.io/bucket/portfolio/images/about1.png",
     "hobbyImage2": "https://nabinkawan.github.io/bucket/portfolio/images/about2.png",
     "resume": "https://nabinkawan.github.io/bucket/portfolio/resume.pdf",
@@ -32,8 +32,8 @@
     }
   ],
   "quotesDetails": {
-    "quotes": "Great web design without functionality is like a sports car with no engine.",
-    "owner": "Paul Cookson"
+    "quotes": "The only way to do great work is to love what you do.",
+    "owner": "Steve Jobs"
   },
   "personalities": {
     "title": "I am Consul (ESFJ-A)",
@@ -56,7 +56,7 @@
       "description": "PreSetup Environment for writing and trying out plutus contracts and cardano transactions.",
       "role": "Frontend Developer",
       "backgroundColor": "#F4F4F6",
-      "image": "https://nabinkawan.github.io/bucket/portfolio/images/projects/Kuber-ide.png"
+      "image": "https://nabinkawan.github.io/bucket/portfolio/images/projects/kuber-ide.png"
     },
     {
       "title": "Tikeet",
@@ -83,7 +83,7 @@
       "image": "https://nabinkawan.github.io/bucket/portfolio/images/testimonials/manoj.png"
     },
     {
-      "thought": "Nabin is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Nabin as a software Developer and would love to work together again.",
+      "thought": "Nabin is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Nabin as a software Engineer and would love to work together again.",
       "name": "Sandip pandey",
       "position": "CEO, Sireto technology",
       "image": "https://nabinkawan.github.io/bucket/portfolio/images/testimonials/sandip.png"
