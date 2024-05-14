@@ -109,20 +109,20 @@
       "image": "https://nabinkawan.github.io/bucket/portfolio/images/projects/kuber-ide.png"
     },
     {
-      "title": "Tikeet",
-      "link": "https://tikeet.io/",
-      "description": "A secure payment system for commissioned documents or digital works, featuring a payment-linked access system to ensure payment before download",
-      "role": "Frontend Developer, Backend Developer, Continuous Integration/Continuous Deployment (CI/CD)",
-      "backgroundColor": "#FDF1EE",
-      "image": "https://nabinkawan.github.io/bucket/portfolio/images/projects/tikeet.png"
-    },
-    {
       "title": "IOU App",
       "link": "https://play.google.com/store/apps/details?id=com.sireto.iou&pcampaignid=web_share",
       "description": "A finance app that transforms financial interactions by identifying and breaking circular chains, facilitating efficient transaction recording.",
       "role": "Mobile Developer, Backend Developer, System Design/Architecture, Continuous Integration/Continuous Deployment (CI/CD) Pipeline",
       "backgroundColor": "#F4EFFF",
       "image": "https://nabinkawan.github.io/bucket/portfolio/images/projects/iou.png"
+    },
+    {
+      "title": "Tikeet",
+      "link": "https://tikeet.io/",
+      "description": "A secure payment system for commissioned documents or digital works, featuring a payment-linked access system to ensure payment before download",
+      "role": "Frontend Developer, Backend Developer, Continuous Integration/Continuous Deployment (CI/CD)",
+      "backgroundColor": "#FDF1EE",
+      "image": "https://nabinkawan.github.io/bucket/portfolio/images/projects/tikeet.png"
     }
   ],
   "testimonials": [
