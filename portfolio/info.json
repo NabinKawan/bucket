@@ -26,10 +26,65 @@
       "link": "https://www.instagram.com/nabinkwn/"
     }
   ],
-  "quotesDetails": {
-    "quotes": "The only way to do great work is to love what you do.",
-    "owner": "Steve Jobs"
-  },
+  "quotes": [
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "owner": "Steve Jobs"
+    },
+    { "text": "If you can dream it, you can do it.", "owner": "Walt Disney" },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "owner": "Eleanor Roosevelt"
+    },
+    {
+      "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+      "owner": "Thomas Edison"
+    },
+    {
+      "text": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+      "owner": "Winston Churchill"
+    },
+    {
+      "text": "The difference between ordinary and extraordinary is that little extra.",
+      "owner": "Jimmy Johnson"
+    },
+    {
+      "text": "It is never too late to be what you might have been.",
+      "owner": "George Eliot"
+    },
+    {
+      "text": "Continuous improvement is better than delayed perfection.",
+      "owner": "Mark Twain"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "owner": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "Just one small positive thought in the morning can change your whole day.",
+      "owner": "Dalai Lama"
+    },
+    {
+      "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+      "owner": "Helen Keller"
+    },
+    {
+      "text": "The best way to predict the future is to create it.",
+      "owner": "Peter Drucker"
+    },
+    {
+      "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+      "owner": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "Don't be afraid to give up the good to go for the great.",
+      "owner": "John D. Rockefeller"
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "owner": "Theodore Roosevelt"
+    }
+  ],
   "personalities": {
     "title": "I am Consul (ESFJ-A)",
     "description": "Embodying a keen analytical mindset, adept at employing creative problem-solving strategies, and dedicated to unwavering self-enhancement.",
@@ -71,12 +126,6 @@
     }
   ],
   "testimonials": [
-    {
-      "thought": "Nabin has a remarkable ability to grasp complex concepts quickly and delivered outstanding solutions that exceeded expectations. I wholeheartedly endorse Nabin's expertise and look forward to collaborating again.",
-      "name": "Manoj Rai",
-      "position": "Creative Head, Sireto technology",
-      "image": "https://nabinkawan.github.io/bucket/portfolio/images/testimonials/manoj.png"
-    },
     {
       "thought": "Nabin is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Nabin as a software Engineer and would love to work together again.",
       "name": "Sandip pandey",
